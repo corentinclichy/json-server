@@ -1,14 +1,29 @@
 {
-  "emission-factor": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "emission-factor": [
+        {
+            "id": 1,
+            "title": "Emission Factor 1",
+            "value": 432.43
+        },
+        {
+            "id": 2,
+            "title": "Emission Factor 2",
+            "value": 432.43
+        },
+        {
+            "id": 3,
+            "title": "Emission Factor 3",
+            "value": 432.43
+        },
+        {
+            "id": 2,
+            "title": "Emission Factor 4",
+            "value": 432.43
+        },
+        {
+            "id": 2,
+            "title": "Emission Factor 5",
+            "value": 432.43
+        }
+    ]
 }
